@@ -1,0 +1,8 @@
+pandas
+numpy
+geopy
+pandas
+progressbar2
+tqdm
+matplotlib
+xlrd
